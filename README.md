@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heey u guys 👋
 
 I'm currently doing my IEE homework😄.
 and this is the optional part!
