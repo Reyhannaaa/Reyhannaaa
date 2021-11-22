@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently doing my IEE homework😄.
+and this is the optional part!
+
+u can reach me by: Kharazmireyhaneh25@gmail.com
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 **Reyhannaaa/Reyhannaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
