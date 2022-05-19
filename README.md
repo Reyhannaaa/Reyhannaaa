@@ -1,9 +1,8 @@
 ### Heey u guys 👋
 
-I'm currently doing my IEE homework😄.
-and this is the optional part!
+I'm a curious undergrad student 😄.
 
-u can reach me by: Kharazmireyhaneh25@gmail.com
+- 📫 u can reach me by: Kharazmireyhaneh25@gmail.com
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
