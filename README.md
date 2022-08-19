@@ -2,7 +2,7 @@
 
 I'm a curious undergrad student 😄.
 
-- 📫 u can reach me by: Kharazmireyhaneh25@gmail.com
+- 📫 u can reach me by: Kharazmireyhaneh@gmail.com
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
