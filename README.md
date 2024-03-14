@@ -1,6 +1,6 @@
 ### Heey u guys 👋
 
-I'm a curious undergrad student 😄.
+I'm a curious master student at Politecnico di Torino 😄.
 
 - 📫 u can reach me by: Kharazmireyhaneh@gmail.com
 
