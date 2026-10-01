@@ -1,6 +1,6 @@
 ### Heey u guys 👋
 
-I'm a curious master student at Politecnico di Torino 😄.
+I am currently working on leveraging AI for best.
 
 - 📫 u can reach me by: Kharazmireyhaneh@gmail.com
 
